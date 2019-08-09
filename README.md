@@ -1,2 +1,2 @@
 # PSAlive
-IOC that monitors for a running process based on its name
+IOC that monitors running processes based on their names.

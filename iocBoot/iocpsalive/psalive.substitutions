@@ -1,0 +1,8 @@
+## R = record name
+## PSNAME = process name to monitor
+
+file "$(TOP)/db/psalive.db" { pattern
+{  BL,     DEV,              R,           PSNAME}
+{PINK, PSALIVE,           test,           screen}
+{PINK, PSALIVE,          test2,        calculato}
+}

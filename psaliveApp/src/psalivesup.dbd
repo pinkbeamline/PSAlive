@@ -1,0 +1,2 @@
+variable(DEBUG)
+function(checkps)
